@@ -1,4 +1,4 @@
-# Cat adventures
+# Cat's adventures
 
 This is my entry on Ludum Dare 38
 
