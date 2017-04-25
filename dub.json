@@ -1,0 +1,16 @@
+{
+	"name" : "ld38",
+
+	"description" : "LD 38",
+	"authors" : [ "Andrey Penechko" ],
+	"license" : "BSL-1.0",
+
+	"dependencies" : {
+		"voxelman" : {"path" : "../"}
+	},
+
+	"targetPath" : "./",
+	"workingDirectory" : "./",
+
+	"sourcePaths" : [ "source" ]
+}
