@@ -8,4 +8,4 @@ This is my entry on Ludum Dare 38
 * Made sexy animated walk animation.
 * Did basic character movement.
 
-![](http://i.imgur.com/tGAKQbu.gifv)
+![](http://i.imgur.com/tGAKQbu.gif)
